@@ -15,6 +15,7 @@ BLOCK_SIZE = 10
 crashed = False
 clock = pygame.time.Clock()
 
+fire = 5
 
 BLOCK_PLAN_SIZE = 4
 blockPlan = [
